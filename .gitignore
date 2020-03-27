@@ -2,6 +2,7 @@
 snap
 parts
 stage
+prime
 ### Vim template
 # swap
 [._]*.s[a-w][a-z]
